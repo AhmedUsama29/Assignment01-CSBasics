@@ -7,6 +7,7 @@ namespace Assignment01
         static void Main(string[] args)
         {
             #region Question 01 : Write a program that allows the user to enter a number then print it
+
             //Console.WriteLine("Enter a number: ");
             //int Num = int.Parse(Console.ReadLine());
             //Console.WriteLine($"You Entered: {Num}");
